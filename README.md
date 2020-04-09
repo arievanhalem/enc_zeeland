@@ -8,3 +8,6 @@ Stappen om deze conversie te gebruiken.
 - Pak deze bestanden uit zodat er in de werkmap een map 'ENC_ROOT' komt met daarin de inhoud.
 - Voer het script convert_enc.bat uit.
 - Open de QGis file enc-zeeland.qgis.
+
+Credits:
+- Atilio Francois (https://www.sigterritoires.fr/index.php/en/displaying-marine-charts-with-s57-qgis/ ) voor de QGis basis, de nautische symbolen en de uitleg.
